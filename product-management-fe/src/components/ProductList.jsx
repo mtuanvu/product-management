@@ -126,8 +126,8 @@ const ProductList = () => {
           sortProducts(value);
         }}
       >
-        <Option value="asc">Ascending</Option>
-        <Option value="desc">Descending</Option>
+        <Option value="asc">Ascending Store Code</Option>
+        <Option value="desc">Descending Store Code</Option>
       </Select>
 
       <Table
