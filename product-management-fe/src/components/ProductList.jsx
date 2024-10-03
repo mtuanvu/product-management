@@ -154,6 +154,7 @@ const ProductList = () => {
                     setEditingProduct(record);
                     setIsModalOpen(true);
                   }}
+                  style={{ marginRight: "10px" }}
                 >
                   Edit
                 </Button>
